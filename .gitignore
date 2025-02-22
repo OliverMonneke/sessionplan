@@ -1,5 +1,5 @@
-# IDE specific
 .idea
+composer.lock
 
 ###> symfony/framework-bundle ###
 /.env.local
